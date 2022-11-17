@@ -1,5 +1,5 @@
-# CuteVirusCollection
-#### A Collection of Cute But Deadly Viruses
+# VirusCollection
+#### A Collection of **FUN** But Deadly Viruses
 
 **Fun viruses to downlad in your free time**
 
